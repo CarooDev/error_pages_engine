@@ -5,7 +5,6 @@ ENV["RAILS_ENV"] ||= 'production'
 
 require File.expand_path("spec/dummy/config/environment")
 require 'rspec/rails'
-require 'ruby-debug'
 
 # Requires supporting ruby files with custom matchers and macros, etc,
 # in spec/support/ and its subdirectories.
